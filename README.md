@@ -20,7 +20,7 @@
 
 
 
-1. **Clone the Repository: git clone <your-repo-link>**
+1. **Clone the Repository: git clone https://github.com/induwara-cmd/postman-test-api.git**
 2. **Navigate to Directory: cd <project-folder>**
 3. **Build with Maven: mvn clean install**
 4. **Run the Server: mvn exec:java (or use your specific Main class command).**
